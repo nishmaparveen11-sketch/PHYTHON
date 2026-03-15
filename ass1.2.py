@@ -1,0 +1,6 @@
+print("HOPE AI")
+a=input("Enter your institute name? ")
+b=int(input("Enter your age "))
+c=input("Enter your name ")
+d=input("Enter your school name ")
+e=input("Enter your degree ")
